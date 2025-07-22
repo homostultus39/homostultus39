@@ -1,4 +1,4 @@
-## Hi there 👋
+## Приветствую 👋
 
 <!--
 **homostultus39/homostultus39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - БИО: Python-разработчик из СПБ.
+ - Больше полутора лет коммерческого опыта на Django и FastAPI
+ - Проффесионально делаю чизкейки слушаю Дору
+
+## Технологический стек
+```python
+Python PostgreSQL Git Linux MySQL Redis Docker RabbitMQ
+Jira Nginx Celery Django Django Rest Framework Flask API
+GitHub MariaDB СУБД asyncio MongoDB FastAPI SQLAlchemy
+S3 minio, pytest
+```
