@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  - Проффесионально делаю чизкейки слушаю Дору
 
 ## Технологический стек
-```python
+```markdown
 Python PostgreSQL Git Linux MySQL Redis Docker RabbitMQ
 Jira Nginx Celery Django Django Rest Framework Flask API
 GitHub MariaDB СУБД asyncio MongoDB FastAPI SQLAlchemy
